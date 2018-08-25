@@ -1,0 +1,237 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/17.0/Casino/simulation/qsim
+Ecasino
+Z1 w1534785188
+Z2 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 e`^h93R^CdmMEVe0e1VU_3
+Z3 DPx10 cycloneive 21 cycloneive_components 0 22 Q;lLU[K?fTJPSa^YaZf>B3
+Z4 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z5 DPx6 altera 11 dffeas_pack 0 22 >EJOc2K4@P4f?njWHdOcd0
+Z6 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 DPx6 altera 28 altera_primitives_components 0 22 14j`ZKHCzSI;]V?hmAE6_1
+R0
+Z10 8Casino.vho
+Z11 FCasino.vho
+l0
+L80
+VPITChO2LYdU8lJBi?ZUm`3
+!s100 >BTh;k407NzYW[ZUl93Eh3
+Z12 OV;C;10.5b;63
+32
+Z13 !s110 1534785190
+!i10b 1
+Z14 !s108 1534785189.000000
+Z15 !s90 -work|work|Casino.vho|
+Z16 !s107 Casino.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 6 casino 0 22 PITChO2LYdU8lJBi?ZUm`3
+l1290
+L175
+VGFWJodQ0Vn_;k]H=NTd<_2
+!s100 M:_O0;FR]PV4GaJR988b`1
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Ecasino_vhd_vec_tst
+Z19 w1534785186
+R7
+R8
+R0
+Z20 8Waveform.vwf.vht
+Z21 FWaveform.vwf.vht
+l0
+L32
+VIXK_o?_DXG2KfYD`SRO<T1
+!s100 lPPi[K<G^d1=>E_oS?zh20
+R12
+32
+R13
+!i10b 1
+Z22 !s108 1534785190.000000
+Z23 !s90 -work|work|Waveform.vwf.vht|
+Z24 !s107 Waveform.vwf.vht|
+!i113 1
+R17
+R18
+Acasino_arch
+R7
+R8
+Z25 DEx4 work 18 casino_vhd_vec_tst 0 22 IXK_o?_DXG2KfYD`SRO<T1
+l87
+L34
+Vo[TMdG1lXZ484VEmOzK3j1
+!s100 B^93giX>DF;egQCfZckI<2
+R12
+32
+R13
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R17
+R18
+Econtrolador
+Z26 w1534333140
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R0
+R10
+R11
+l0
+L80
+VO]n?@Q7o;g><hQCT[WYXe3
+!s100 kMaSR>M8j0G5S=lP65`La0
+R12
+32
+Z27 !s110 1534333141
+!i10b 1
+Z28 !s108 1534333141.000000
+R15
+R16
+!i113 1
+R17
+R18
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 11 controlador 0 22 O]n?@Q7o;g><hQCT[WYXe3
+l600
+L212
+VJAegQSkYida[n17bUJ8_J0
+!s100 Kkzf<X5LDe6765PIL[YMQ3
+R12
+32
+R27
+!i10b 1
+R28
+R15
+R16
+!i113 1
+R17
+R18
+Econtrolador_vhd_vec_tst
+Z29 w1534333138
+R7
+R8
+R0
+Z30 8Waveform1.vwf.vht
+Z31 FWaveform1.vwf.vht
+l0
+L32
+VeFB8nFUES7UNZ>Qnle[200
+!s100 Lo];OBdeY4GhQzM<OEINe1
+R12
+32
+Z32 !s110 1534333142
+!i10b 1
+Z33 !s108 1534333142.000000
+Z34 !s90 -work|work|Waveform1.vwf.vht|
+Z35 !s107 Waveform1.vwf.vht|
+!i113 1
+R17
+R18
+Acontrolador_arch
+R7
+R8
+DEx4 work 23 controlador_vhd_vec_tst 0 22 eFB8nFUES7UNZ>Qnle[200
+l157
+L34
+V2^_B3TVIDd?]C:z4:YnMk1
+!s100 5]L3iaTe8UWkFLh`e`_TO3
+R12
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R17
+R18
+Ehard_block
+R1
+R4
+R2
+R6
+R7
+R8
+R3
+R0
+R10
+R11
+l0
+L35
+VB]0;STalBkCB1_B4BXQDW2
+!s100 >mXi5[`cD`bFC`UBKA<om3
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Astructure
+R4
+R2
+R6
+R7
+R8
+R3
+DEx4 work 10 hard_block 0 22 B]0;STalBkCB1_B4BXQDW2
+l65
+L51
+Via>5o7W??azG@W@@eFOTF0
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18

@@ -1,0 +1,249 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Ingrese",
+					"strict" : false
+				},
+				{
+					"name" : "Apuesta",
+					"strict" : false
+				},
+				{
+					"name" : "Adivine",
+					"strict" : false
+				},
+				{
+					"name" : "Caliente",
+					"strict" : false
+				},
+				{
+					"name" : "Frio",
+					"strict" : false
+				},
+				{
+					"name" : "Tibio",
+					"strict" : false
+				},
+				{
+					"name" : "Perdio",
+					"strict" : false
+				},
+				{
+					"name" : "Gano",
+					"strict" : false
+				},
+				{
+					"name" : "Error",
+					"strict" : false
+				},
+				{
+					"name" : "C7segmentos[6]",
+					"strict" : false
+				},
+				{
+					"name" : "C7segmentos[5]",
+					"strict" : false
+				},
+				{
+					"name" : "C7segmentos[4]",
+					"strict" : false
+				},
+				{
+					"name" : "C7segmentos[3]",
+					"strict" : false
+				},
+				{
+					"name" : "C7segmentos[2]",
+					"strict" : false
+				},
+				{
+					"name" : "C7segmentos[1]",
+					"strict" : false
+				},
+				{
+					"name" : "C7segmentos[0]",
+					"strict" : false
+				},
+				{
+					"name" : "D7segmentos[6]",
+					"strict" : false
+				},
+				{
+					"name" : "D7segmentos[5]",
+					"strict" : false
+				},
+				{
+					"name" : "D7segmentos[4]",
+					"strict" : false
+				},
+				{
+					"name" : "D7segmentos[3]",
+					"strict" : false
+				},
+				{
+					"name" : "D7segmentos[2]",
+					"strict" : false
+				},
+				{
+					"name" : "D7segmentos[1]",
+					"strict" : false
+				},
+				{
+					"name" : "D7segmentos[0]",
+					"strict" : false
+				},
+				{
+					"name" : "estados[5]",
+					"strict" : false
+				},
+				{
+					"name" : "estados[4]",
+					"strict" : false
+				},
+				{
+					"name" : "estados[3]",
+					"strict" : false
+				},
+				{
+					"name" : "estados[2]",
+					"strict" : false
+				},
+				{
+					"name" : "estados[1]",
+					"strict" : false
+				},
+				{
+					"name" : "estados[0]",
+					"strict" : false
+				},
+				{
+					"name" : "M7segmentos[6]",
+					"strict" : false
+				},
+				{
+					"name" : "M7segmentos[5]",
+					"strict" : false
+				},
+				{
+					"name" : "M7segmentos[4]",
+					"strict" : false
+				},
+				{
+					"name" : "M7segmentos[3]",
+					"strict" : false
+				},
+				{
+					"name" : "M7segmentos[2]",
+					"strict" : false
+				},
+				{
+					"name" : "M7segmentos[1]",
+					"strict" : false
+				},
+				{
+					"name" : "M7segmentos[0]",
+					"strict" : false
+				},
+				{
+					"name" : "U7segmentos[6]",
+					"strict" : false
+				},
+				{
+					"name" : "U7segmentos[5]",
+					"strict" : false
+				},
+				{
+					"name" : "U7segmentos[4]",
+					"strict" : false
+				},
+				{
+					"name" : "U7segmentos[3]",
+					"strict" : false
+				},
+				{
+					"name" : "U7segmentos[2]",
+					"strict" : false
+				},
+				{
+					"name" : "U7segmentos[1]",
+					"strict" : false
+				},
+				{
+					"name" : "U7segmentos[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Reloj",
+					"strict" : false
+				},
+				{
+					"name" : "Consultar_Saldo",
+					"strict" : false
+				},
+				{
+					"name" : "Start",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Teclados[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Consultar_Mejores_Puntuaciones",
+					"strict" : false
+				},
+				{
+					"name" : "Salir",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "Continuar",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
